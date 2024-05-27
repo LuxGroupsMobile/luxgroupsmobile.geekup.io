@@ -1,3 +1,3 @@
 # luxgroupsmobile.geekup.io
 
-### [Privacy Policy]()[config](.git%2Fconfig)
+### [Privacy Policy](https://luxgroupsmobile.github.io/privacy-policy)
